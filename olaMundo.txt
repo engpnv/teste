@@ -1,3 +1,5 @@
 Ola, mundo!
 Eu sou o Pablo Nunes Vargas!
 Vamos aprender os fundamentos do git?
+Claro!
+Você gosta de programar?	
